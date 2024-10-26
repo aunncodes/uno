@@ -1,6 +1,3 @@
-# Submission by Sahil Chopra, aunngames@gmail.com
-
-
 import random
 import re
 import time
